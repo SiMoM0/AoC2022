@@ -77,7 +77,6 @@ def part2():
                     break
 
             ans = max(ans, trees[0]*trees[1]*trees[2]*trees[3])
-            print(f'Tree in {(i, j)} sees this: {trees}')
 
     print('Answer Part 2: ', ans)
 

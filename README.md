@@ -2,6 +2,19 @@
 
 Solutions of the [Advent of Code 2022](https://adventofcode.com/2022).
 
+### Repo structure
+
+```
+code
+└────── dayN
+        |      dayN.py
+        |      example.txt
+        |      input.txt
+        |      README.md
+```
+
+### Solutions
+
 | Day | Name | Solution |
 |-|-|-|
 | 1 | Calorie Counting | [Python](https://github.com/SiMoM0/AoC2022/blob/master/code/day1/day1.py) |
