@@ -10,3 +10,4 @@ Solutions of the [Advent of Code 2022](https://adventofcode.com/2022).
 | 4 | Camp Cleanup | [Python](https://github.com/SiMoM0/AoC2022/blob/master/code/day4/day4.py) |
 | 5 | Supply Stacks | [Python](https://github.com/SiMoM0/AoC2022/blob/master/code/day5/day5.py) |
 | 6 | Tuning Trouble | [Python](https://github.com/SiMoM0/AoC2022/blob/master/code/day6/day6.py) |
+| 7 | No Space Left On Device | [Python](https://github.com/SiMoM0/AoC2022/blob/master/code/day7/day7.py) |
