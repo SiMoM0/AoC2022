@@ -25,3 +25,4 @@ code
 | 6 | Tuning Trouble | [Python](https://github.com/SiMoM0/AoC2022/blob/master/code/day6/day6.py) |
 | 7 | No Space Left On Device | [Python](https://github.com/SiMoM0/AoC2022/blob/master/code/day7/day7.py) |
 | 8 | Treetop Tree House | [Python](https://github.com/SiMoM0/AoC2022/blob/master/code/day8/day8.py) |
+| 9 | Rope Bridge | [Python](https://github.com/SiMoM0/AoC2022/blob/master/code/day9/day9.py) |
